@@ -78,7 +78,7 @@ const ValentineCard: React.FC<ValentineCardProps> = ({ onAccept }) => {
       <div className="mb-6 text-7xl animate-bounce" style={{ animationDuration: '3s' }}>💝</div>
       
       <h1 className="cursive text-4xl md:text-5xl text-pink-600 font-bold mb-8 leading-tight">
-        Murnal Will you be my Valentine?
+        Akshitha Will you be my Valentine?
       </h1>
 
       <div 

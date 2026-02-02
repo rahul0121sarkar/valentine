@@ -61,7 +61,7 @@ const SuccessView: React.FC = () => {
       
       <div ref={textRef}>
         <h2 className="cursive text-5xl md:text-6xl text-pink-600 font-bold mb-6">
-          Yay! I knew it! ❤️
+          Yay! I knew it Akshitha! ❤️
         </h2>
         <p className="text-xl md:text-2xl text-pink-800 font-semibold max-w-xl bg-white/40 backdrop-blur-sm p-6 rounded-2xl border border-pink-100 shadow-sm">
           Congratulations! You just chose to be in the best date of your life! 🥂✨
